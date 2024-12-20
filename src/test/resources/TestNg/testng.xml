@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="TestSuite" parallel="false">
+    <test name="TestRun">
+        <classes>
+            <!-- Specify the fully qualified name of the test classes -->
+            <class name="base.PostUser" />
+
+        </classes>
+    </test>
+</suite>
